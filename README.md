@@ -18,6 +18,8 @@ http://www.techwiese.de/
 https://youtu.be/I14b-C67EXY?t=83 
 * Tiobe Programming Language Index  
 https://www.tiobe.com/tiobe-index/
+* Blazor examples  
+  https://awesomeopensource.com/project/AdrienTorris/awesome-blazor 
 
 # Good books
 
