@@ -18,9 +18,16 @@ http://www.techwiese.de/
 https://youtu.be/I14b-C67EXY?t=83 
 * Tiobe Programming Language Index  
 https://www.tiobe.com/tiobe-index/
+
+# Blazor
+
 * Blazor examples  
   https://awesomeopensource.com/project/AdrienTorris/awesome-blazor 
-
+* Blazor workshop  
+  https://aka.ms/blazorworkshop
+* Blazor video series  
+  https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz
+  
 # Good books
 
 * The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition (978-0135957059)
