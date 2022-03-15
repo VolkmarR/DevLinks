@@ -75,3 +75,5 @@ http://kryptografie.de/kryptografie/chiffre/whitespace.htm
 * Rockstar  
 https://codewithrockstar.com/  
 https://github.com/RockstarLang/rockstar 
+* The Worst Programming Language Ever (Video)  
+https://www.youtube.com/watch?v=vcFBwt1nu2U
