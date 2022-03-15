@@ -5,7 +5,7 @@ https://refactoring.guru/
 * Stack Overflow (Q&A)  
 https://stackoverflow.com/
 * Stack Overflow Survey  
-https://insights.stackoverflow.com/survey/2020
+https://insights.stackoverflow.com/survey/2021
 * Technology Radar  
 https://www.thoughtworks.com/radar 
 * Programmer’s Hardest Tasks  
@@ -18,6 +18,8 @@ http://www.techwiese.de/
 https://youtu.be/I14b-C67EXY?t=83 
 * Tiobe Programming Language Index  
 https://www.tiobe.com/tiobe-index/
+* PagerDuty's Security Training for Engineers  
+https://sudo.pagerduty.com/for_engineers/ 
 
 # Blazor
 
