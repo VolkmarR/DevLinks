@@ -57,6 +57,13 @@ https://sudo.pagerduty.com/for_engineers/
 * Axios  
   https://github.com/axios/axios
 
+# Dotnet YouTube channels
+
+* Nick Chapsas - C# Tutorials  
+https://www.youtube.com/c/Elfocrash
+* CodeOpinion - Software Architecture and design  
+https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw
+
 # Useless programming languages
 
 * LOLCode  
